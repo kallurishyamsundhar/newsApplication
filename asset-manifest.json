@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kallurishyamsundhar/newsApplication.git/static/css/main.229945d2.css",
+    "main.js": "/kallurishyamsundhar/newsApplication.git/static/js/main.31bc3304.js",
+    "index.html": "/kallurishyamsundhar/newsApplication.git/index.html",
+    "main.229945d2.css.map": "/kallurishyamsundhar/newsApplication.git/static/css/main.229945d2.css.map",
+    "main.31bc3304.js.map": "/kallurishyamsundhar/newsApplication.git/static/js/main.31bc3304.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.229945d2.css",
+    "static/js/main.31bc3304.js"
+  ]
+}
